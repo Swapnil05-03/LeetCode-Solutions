@@ -55,3 +55,15 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 ---
 
 ⭐ "Success in DSA is not about solving hundreds of problems in a day, but solving problems consistently every day."
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+<!---LeetCode Topics End-->
