@@ -93,6 +93,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -136,4 +137,8 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
