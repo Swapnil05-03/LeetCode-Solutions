@@ -68,6 +68,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -117,6 +118,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | ------- |
 | [0001-two-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
@@ -159,6 +161,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0014-longest-common-prefix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
