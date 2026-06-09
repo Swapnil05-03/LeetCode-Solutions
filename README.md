@@ -117,6 +117,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -129,6 +130,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
 |  |
@@ -160,6 +162,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
