@@ -178,6 +178,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0383-ransom-note](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
@@ -209,4 +210,5 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
