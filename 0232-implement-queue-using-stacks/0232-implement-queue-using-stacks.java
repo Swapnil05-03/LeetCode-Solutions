@@ -7,29 +7,47 @@ class MyQueue {
     }
     
     public void push(int x) {
+        // st.push(x);
+
+        //or
+
+        while(st.size() > 0){
+            helper.push(st.pop());
+        }
         st.push(x);
+        while(helper.size() > 0){
+            st.push(helper.pop());
+        }
     }
     
     public int pop() {
-        while(st.size() > 1){
-            helper.push(st.pop());
-        }
-        int front = st.pop();
-        while(helper.size() > 0){
-            st.push(helper.pop());
-        }
-        return front;
+        return st.pop();
+
+        //or
+
+        // while(st.size() > 1){
+        //     helper.push(st.pop());
+        // }
+        // int front = st.pop();
+        // while(helper.size() > 0){
+        //     st.push(helper.pop());
+        // }
+        // return front;
     }
     
     public int peek() {
-        while(st.size() > 1){
-            helper.push(st.pop());
-        }
-        int front = st.peek();
-        while(helper.size() > 0){
-            st.push(helper.pop());
-        }
-        return front;
+        return st.peek();
+
+        //or
+
+        // while(st.size() > 1){
+        //     helper.push(st.pop());
+        // }
+        // int front = st.peek();
+        // while(helper.size() > 0){
+        //     st.push(helper.pop());
+        // }
+        // return front;
     }
     
     public boolean empty() {
