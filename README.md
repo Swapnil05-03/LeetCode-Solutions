@@ -150,6 +150,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | ------- |
 | [0020-valid-parentheses](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0394-decode-string) |
@@ -240,4 +241,16 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
