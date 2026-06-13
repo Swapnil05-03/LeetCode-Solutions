@@ -89,6 +89,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0217-contains-duplicate](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0682-baseball-game) |
@@ -158,6 +159,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0232-implement-queue-using-stacks](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -167,6 +169,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
