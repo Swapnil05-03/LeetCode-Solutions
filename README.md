@@ -112,6 +112,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0443-string-compression](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
@@ -220,6 +221,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
