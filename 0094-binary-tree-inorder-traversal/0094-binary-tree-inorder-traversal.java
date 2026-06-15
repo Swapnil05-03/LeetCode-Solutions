@@ -1,28 +1,39 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
+// class Solution {
+//     public void dfs(ArrayList<Integer> arr , TreeNode root){
+//         if(root == null) return;
+//         dfs(arr , root.left);
+//         arr.add(root.val);
+//         dfs(arr , root.right);
+//     }
+//     public List<Integer> inorderTraversal(TreeNode root) {
+//         ArrayList<Integer> arr = new ArrayList<>();
+//         dfs(arr , root);
+//         return arr;   
+//     }
+// }
+
+//OR (Iterative Approach)
+
 class Solution {
-    public void dfs(ArrayList<Integer> arr , TreeNode root){
-        if(root == null) return;
-        dfs(arr , root.left);
-        arr.add(root.val);
-        dfs(arr , root.right);
-    }
     public List<Integer> inorderTraversal(TreeNode root) {
-        ArrayList<Integer> arr = new ArrayList<>();
-        dfs(arr , root);
-        return arr;   
+        List<Integer> ans = new ArrayList<>();
+        Stack<TreeNode> st = new Stack<>();
+        TreeNode curr = root;
+        while (st.size() > 0 || curr != null) {
+            if (curr != null) {
+                if (curr.left != null) {
+                    st.push(curr);
+                    curr = curr.left;
+                } else {
+                    ans.add(curr.val);
+                    curr = curr.right;
+                }
+            } else { // curr == null
+                TreeNode top = st.pop();
+                ans.add(top.val);
+                curr = top.right;
+            }
+        }
+        return ans;
     }
 }
