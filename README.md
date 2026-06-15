@@ -158,6 +158,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0020-valid-parentheses](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
@@ -222,6 +223,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -270,6 +272,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -284,6 +287,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0101-symmetric-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -300,6 +304,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
