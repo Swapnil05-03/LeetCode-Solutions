@@ -228,6 +228,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
@@ -237,6 +238,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
