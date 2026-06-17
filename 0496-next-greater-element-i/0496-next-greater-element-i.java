@@ -10,7 +10,6 @@ class Solution {
             map.put(nums2[i] , nge);
             st.push(nums2[i]);
         }
-
         int[] ans = new int[m];
         for(int i = 0; i<m; i++){
             ans[i] = map.get(nums1[i]);
