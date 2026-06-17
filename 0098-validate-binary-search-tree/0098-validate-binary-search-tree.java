@@ -1,3 +1,38 @@
+//Using Morris Traversal
+
+class Solution {
+     public boolean isValidBST(TreeNode root){
+        TreeNode curr = root;
+        Long prev = null;
+        while(curr != null){
+            if(curr.left != null){
+                //find predecessor and do work
+                TreeNode pred = curr.left;
+                while(pred.right != null && pred.right != curr) pred = pred.right; 
+                if(pred.right == null){
+                    //link
+                    pred.right = curr;
+                    curr = curr.left;
+                }
+                else{ // pred.right == curr --> Unlink and print
+                    pred.right = null;
+                    if(prev != null && curr.val <= prev) return false;
+                    prev = (long) curr.val;
+                    curr = curr.right;
+                }
+            }
+            else{
+                if(prev != null && curr.val <= prev) return false;
+                prev = (long) curr.val;
+                curr = curr.right;
+            }
+        } 
+        return true;
+    }
+}
+
+//OR
+
 // class Solution {
 //     public boolean isSorted(ArrayList<Integer> arr) {
 //         for (int i = 1; i < arr.size(); i++) {
@@ -39,28 +74,28 @@
 
 //OR
 
-class Pair{
-    long max;
-    long min;
-    Pair(long max , long min){
-        this.max = max;
-        this.min = min;
-    }
-}
-class Solution {
-    static boolean flag;
-    public boolean isValidBST(TreeNode root) {
-        flag = true;
-        maxMin(root);
-        return flag;
-    }
-    Pair maxMin(TreeNode root){
-        if(root == null) return new Pair(Long.MIN_VALUE, Long.MAX_VALUE);
-        Pair lst = maxMin(root.left);
-        Pair rst = maxMin(root.right);
-        long mx = Math.max(root.val , Math.max(lst.max , rst.max));
-        long mn = Math.min(root.val , Math.min(lst.min , rst.min));
-        if(lst.max >= root.val || rst.min <= root.val) flag = false;
-        return new Pair(mx , mn);
-    }
-}
+// class Pair{
+//     long max;
+//     long min;
+//     Pair(long max , long min){
+//         this.max = max;
+//         this.min = min;
+//     }
+// }
+// class Solution {
+//     static boolean flag;
+//     public boolean isValidBST(TreeNode root) {
+//         flag = true;
+//         maxMin(root);
+//         return flag;
+//     }
+//     Pair maxMin(TreeNode root){
+//         if(root == null) return new Pair(Long.MIN_VALUE, Long.MAX_VALUE);
+//         Pair lst = maxMin(root.left);
+//         Pair rst = maxMin(root.right);
+//         long mx = Math.max(root.val , Math.max(lst.max , rst.max));
+//         long mn = Math.min(root.val , Math.min(lst.min , rst.min));
+//         if(lst.max >= root.val || rst.min <= root.val) flag = false;
+//         return new Pair(mx , mn);
+//     }
+// }
