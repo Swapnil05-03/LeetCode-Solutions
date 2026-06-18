@@ -22,7 +22,6 @@ class Solution {
             else pse[i] = st.peek();
             st.push(i);
         }
-
         int maxArea = 0;
         for(int i = 0; i<n; i++){
             int area = arr[i] * (nse[i] - pse[i] -1);
