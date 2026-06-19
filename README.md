@@ -109,6 +109,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0977-squares-of-a-sorted-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1572-matrix-diagonal-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2574-left-and-right-sum-differences](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -250,6 +251,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Linked List
 |  |
