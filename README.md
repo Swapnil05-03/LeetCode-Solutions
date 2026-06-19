@@ -72,6 +72,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | ------- |
 | [0217-contains-duplicate](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -94,6 +95,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0217-contains-duplicate](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
@@ -130,6 +132,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 ## Binary Search
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
@@ -204,6 +207,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
@@ -423,6 +427,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Queue
 |  |
 | ------- |
