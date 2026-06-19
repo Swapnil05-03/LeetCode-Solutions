@@ -268,6 +268,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0225-implement-stack-using-queues](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
@@ -285,6 +286,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0155-min-stack](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Backtracking
 |  |
 | ------- |
@@ -410,4 +412,8 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0938-range-sum-of-bst](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
