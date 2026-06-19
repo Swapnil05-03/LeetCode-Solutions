@@ -349,6 +349,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0700-search-in-a-binary-search-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
@@ -405,6 +406,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0700-search-in-a-binary-search-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -417,6 +419,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0112-path-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
