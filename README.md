@@ -95,6 +95,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0001-two-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0078-subsets](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -324,6 +325,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Tree
@@ -513,6 +515,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0231-power-of-two) |
