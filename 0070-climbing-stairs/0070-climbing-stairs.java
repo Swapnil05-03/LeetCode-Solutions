@@ -1,10 +1,13 @@
 class Solution {
-    int[] arr = new int[46];
+    static int[] dp;
     public int climbStairs(int n) {
-        if(n<=2) return n;
-
-        if(arr[n] != 0) return arr[n];
-        arr[n] = climbStairs(n-1) + climbStairs(n-2);
-        return arr[n];    
+        dp = new int[n + 1];
+        Arrays.fill(dp, -1);
+        return climb(n);
+    }
+    public int climb(int n) {
+        if (n <= 2) return n;
+        if (dp[n] != -1) return dp[n];
+        return dp[n] = climb(n - 1) + climb(n - 2);
     }
 }
