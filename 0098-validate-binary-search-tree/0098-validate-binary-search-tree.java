@@ -1,35 +1,35 @@
 //Using Morris Traversal
 
-class Solution {
-     public boolean isValidBST(TreeNode root){
-        TreeNode curr = root;
-        Long prev = null;
-        while(curr != null){
-            if(curr.left != null){
-                //find predecessor and do work
-                TreeNode pred = curr.left;
-                while(pred.right != null && pred.right != curr) pred = pred.right; 
-                if(pred.right == null){
-                    //link
-                    pred.right = curr;
-                    curr = curr.left;
-                }
-                else{ // pred.right == curr --> Unlink and print
-                    pred.right = null;
-                    if(prev != null && curr.val <= prev) return false;
-                    prev = (long) curr.val;
-                    curr = curr.right;
-                }
-            }
-            else{
-                if(prev != null && curr.val <= prev) return false;
-                prev = (long) curr.val;
-                curr = curr.right;
-            }
-        } 
-        return true;
-    }
-}
+// class Solution {
+//      public boolean isValidBST(TreeNode root){
+//         TreeNode curr = root;
+//         Long prev = null;
+//         while(curr != null){
+//             if(curr.left != null){
+//                 //find predecessor and do work
+//                 TreeNode pred = curr.left;
+//                 while(pred.right != null && pred.right != curr) pred = pred.right; 
+//                 if(pred.right == null){
+//                     //link
+//                     pred.right = curr;
+//                     curr = curr.left;
+//                 }
+//                 else{ // pred.right == curr --> Unlink and print
+//                     pred.right = null;
+//                     if(prev != null && curr.val <= prev) return false;
+//                     prev = (long) curr.val;
+//                     curr = curr.right;
+//                 }
+//             }
+//             else{
+//                 if(prev != null && curr.val <= prev) return false;
+//                 prev = (long) curr.val;
+//                 curr = curr.right;
+//             }
+//         } 
+//         return true;
+//     }
+// }
 
 //OR
 
@@ -61,16 +61,16 @@ class Solution {
 
 //OR
 
-// class Solution {
-//     TreeNode prev = null;
-//      public boolean isValidBST(TreeNode root){
-//         if(root == null) return true;
-//         if(!isValidBST(root.left)) return false;
-//         if(prev != null && root.val <= prev.val) return false;
-//         prev = root;
-//         return isValidBST(root.right);
-//     }
-// }
+class Solution {
+    TreeNode prev = null;
+     public boolean isValidBST(TreeNode root){
+        if(root == null) return true;
+        if(!isValidBST(root.left)) return false;
+        if(prev != null && root.val <= prev.val) return false;
+        prev = root;
+        return isValidBST(root.right);
+    }
+}
 
 //OR
 
