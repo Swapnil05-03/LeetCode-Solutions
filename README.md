@@ -120,6 +120,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0658-find-k-closest-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0861-score-after-flipping-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0912-sort-an-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -193,6 +194,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0198-house-robber](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Sliding Window
 |  |
