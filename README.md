@@ -99,6 +99,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0001-two-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0063-unique-paths-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -192,6 +193,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0005-longest-palindromic-substring](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -247,6 +249,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
