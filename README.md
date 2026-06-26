@@ -275,6 +275,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0125-valid-palindrome](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -349,6 +350,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0225-implement-stack-using-queues](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0933-number-of-recent-calls](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Backtracking
 |  |
@@ -385,6 +387,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -417,6 +420,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -450,6 +454,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -471,6 +476,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0112-path-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
