@@ -120,6 +120,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0347-top-k-frequent-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
@@ -209,6 +210,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0322-coin-change](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -369,6 +371,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0078-subsets](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0494-target-sum) |
 ## Tree
 |  |
 | ------- |
