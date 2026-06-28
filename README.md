@@ -88,6 +88,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0912-sort-an-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3536-maximum-product-of-two-digits](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Enumeration
@@ -136,6 +137,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [1572-matrix-diagonal-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2574-left-and-right-sum-differences](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -173,6 +175,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | ------- |
 | [0011-container-with-most-water](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0861-score-after-flipping-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
