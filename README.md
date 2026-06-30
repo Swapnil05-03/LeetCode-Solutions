@@ -116,6 +116,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0239-sliding-window-maximum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -169,6 +170,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -209,6 +211,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
