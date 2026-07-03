@@ -163,6 +163,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0443-string-compression](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -222,6 +223,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0494-target-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -313,6 +315,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0516-longest-palindromic-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
