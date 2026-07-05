@@ -426,6 +426,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0538-convert-bst-to-greater-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
@@ -459,6 +460,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0538-convert-bst-to-greater-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -494,6 +496,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0450-delete-node-in-a-bst](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
