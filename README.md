@@ -68,6 +68,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0171-excel-sheet-column-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -182,6 +183,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0222-count-complete-tree-nodes](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0367-valid-perfect-square](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
