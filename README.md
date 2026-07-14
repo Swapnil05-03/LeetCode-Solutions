@@ -71,6 +71,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0342-power-of-four](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0507-perfect-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
