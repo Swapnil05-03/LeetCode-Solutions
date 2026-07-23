@@ -3,13 +3,13 @@ class Solution {
         HashMap<Integer, Integer> map = new HashMap<>();
         int[] ans = new int[2];
         for(int i = 0; i < nums.length; i++){
-        int rem = target - nums[i];
+            int rem = target - nums[i];
 
-        if(map.containsKey(rem)){
-            ans[0] = map.get(rem);
-            ans[1] = i;
-        }
-        map.put(nums[i], i);
+            if(map.containsKey(rem)){
+                ans[0] = map.get(rem);
+                ans[1] = i;
+            }
+            map.put(nums[i], i);
         }
         return ans;
     }
