@@ -80,6 +80,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2652-sum-multiples](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -311,6 +312,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0682-baseball-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1103-distribute-candies-to-people](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## String
 |  |
 | ------- |
