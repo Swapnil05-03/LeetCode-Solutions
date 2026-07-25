@@ -118,6 +118,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0001-two-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -211,6 +212,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | ------- |
 | [0001-two-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
