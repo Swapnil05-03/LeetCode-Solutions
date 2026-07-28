@@ -79,6 +79,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [1103-distribute-candies-to-people](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1952-three-divisors](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -114,6 +115,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
@@ -658,6 +660,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
