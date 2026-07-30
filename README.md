@@ -499,6 +499,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0404-sum-of-left-leaves](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
@@ -558,6 +559,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -668,4 +670,12 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [1952-three-divisors](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
