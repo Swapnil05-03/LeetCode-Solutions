@@ -86,6 +86,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [2180-count-integers-with-even-digit-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2652-sum-multiples](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -214,6 +215,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0011-container-with-most-water](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0861-score-after-flipping-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
@@ -358,6 +360,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [1189-maximum-number-of-balloons](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
 | ------- |
