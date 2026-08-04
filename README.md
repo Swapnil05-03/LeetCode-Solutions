@@ -114,6 +114,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3731-find-missing-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3731-find-missing-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -238,6 +240,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0567-permutation-in-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3731-find-missing-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
