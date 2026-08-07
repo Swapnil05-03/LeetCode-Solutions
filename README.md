@@ -79,6 +79,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [1025-divisor-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1399-count-largest-group](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1952-three-divisors](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -241,6 +242,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0567-permutation-in-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1399-count-largest-group](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [3731-find-missing-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -419,6 +421,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0383-ransom-note](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1399-count-largest-group](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 ## String Matching
 |  |
 | ------- |
