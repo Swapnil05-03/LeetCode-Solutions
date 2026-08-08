@@ -516,6 +516,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -573,6 +574,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0404-sum-of-left-leaves](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -688,10 +690,12 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Impartial Game
 |  |
 | ------- |
