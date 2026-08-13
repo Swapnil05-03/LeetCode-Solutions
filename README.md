@@ -269,6 +269,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0516-longest-palindromic-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0799-champagne-tower](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0799-champagne-tower) |
 | [1025-divisor-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
