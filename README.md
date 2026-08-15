@@ -160,6 +160,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0643-maximum-average-subarray-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -244,6 +245,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0438-find-all-anagrams-in-a-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0705-design-hashset](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [1189-maximum-number-of-balloons](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1399-count-largest-group](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1399-count-largest-group) |
@@ -397,6 +399,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0141-linked-list-cycle](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -443,6 +446,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0232-implement-queue-using-stacks](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0705-design-hashset](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Backtracking
 |  |
@@ -711,4 +715,8 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1025-divisor-game) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
