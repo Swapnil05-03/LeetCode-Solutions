@@ -533,6 +533,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0547-number-of-provinces](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -593,6 +594,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0322-coin-change](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
@@ -711,11 +713,13 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | ------- |
 | [0200-number-of-islands](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Impartial Game
 |  |
@@ -726,4 +730,12 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | ------- |
 | [0705-design-hashset](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
