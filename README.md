@@ -186,6 +186,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2574-left-and-right-sum-differences](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -347,6 +348,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
 | ------- |
