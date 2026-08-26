@@ -165,6 +165,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0724-find-pivot-index](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0832-flipping-an-image](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0912-sort-an-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
@@ -209,6 +210,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0567-permutation-in-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0832-flipping-an-image](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -338,6 +340,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0200-number-of-islands](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -346,6 +349,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1103-distribute-candies-to-people](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -682,6 +686,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0260-single-number-iii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0832-flipping-an-image](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Memoization
