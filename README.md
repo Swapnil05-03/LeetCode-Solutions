@@ -193,6 +193,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [3718-smallest-missing-multiple-of-k](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [4024-nearest-available-drone](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/4024-nearest-available-drone) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Two Pointers
 |  |
 | ------- |
@@ -235,6 +236,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Hash Table
 |  |
 | ------- |
