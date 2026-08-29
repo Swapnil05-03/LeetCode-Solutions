@@ -75,6 +75,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0509-fibonacci-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0973-k-closest-points-to-origin](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1103-distribute-candies-to-people) |
@@ -690,6 +691,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0260-single-number-iii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -749,4 +751,8 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
