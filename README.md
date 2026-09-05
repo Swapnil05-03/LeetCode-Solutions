@@ -197,6 +197,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [3731-find-missing-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [4024-nearest-available-drone](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/4024-nearest-available-drone) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Two Pointers
@@ -412,6 +413,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [1732-find-the-highest-altitude](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
 |  |
 | ------- |
