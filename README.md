@@ -107,6 +107,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0347-top-k-frequent-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -160,6 +161,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0496-next-greater-element-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -261,6 +263,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0438-find-all-anagrams-in-a-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [1189-maximum-number-of-balloons](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -306,6 +309,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0239-sliding-window-maximum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -455,6 +459,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0347-top-k-frequent-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
