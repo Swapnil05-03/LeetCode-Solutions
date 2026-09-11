@@ -131,6 +131,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | ------- |
 | [1952-three-divisors](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [4024-nearest-available-drone](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/4024-nearest-available-drone) |
 ## Array
 |  |
@@ -198,6 +199,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [2248-intersection-of-multiple-arrays](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2574-left-and-right-sum-differences](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -274,6 +276,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [1331-rank-transform-of-an-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1399-count-largest-group](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -449,6 +452,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0509-fibonacci-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
