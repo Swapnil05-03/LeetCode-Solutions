@@ -83,6 +83,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [1025-divisor-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1175-prime-arrangements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1185-day-of-the-week) |
 | [1399-count-largest-group](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -783,4 +784,13 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1175-prime-arrangements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
