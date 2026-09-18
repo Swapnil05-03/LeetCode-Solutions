@@ -7,9 +7,11 @@ class Solution {
         }
         int nonPrime = n - prime;
         long ans = 1;
+        //Calculating factorial for prime
         for (int i = 1; i <= prime; i++) {
             ans = (ans * i) % MOD;
         }
+        //Calculating factorial for nonPrime
         for (int i = 1; i <= nonPrime; i++) {
             ans = (ans * i) % MOD;
         }
