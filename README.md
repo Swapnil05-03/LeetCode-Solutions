@@ -83,6 +83,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [1025-divisor-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1185-day-of-the-week) |
 | [1399-count-largest-group](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1399-count-largest-group) |
@@ -414,6 +415,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0696-count-binary-substrings](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1154-day-of-the-year](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
