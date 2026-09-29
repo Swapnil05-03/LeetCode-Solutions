@@ -80,6 +80,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0976-largest-perimeter-triangle](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -120,6 +121,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0658-find-k-closest-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0976-largest-perimeter-triangle](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -185,6 +187,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0912-sort-an-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0976-largest-perimeter-triangle](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -252,6 +255,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | ------- |
 | [0011-container-with-most-water](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0861-score-after-flipping-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
+| [0976-largest-perimeter-triangle](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -795,4 +799,12 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [1175-prime-arrangements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1175-prime-arrangements) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
