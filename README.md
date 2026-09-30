@@ -109,6 +109,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -145,6 +146,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0001-two-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -221,6 +223,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
