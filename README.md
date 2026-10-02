@@ -826,4 +826,8 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
