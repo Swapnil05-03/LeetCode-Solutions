@@ -69,6 +69,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0171-excel-sheet-column-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -758,6 +759,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
