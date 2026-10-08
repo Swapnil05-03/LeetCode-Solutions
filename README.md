@@ -418,6 +418,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0242-valid-anagram](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -523,6 +524,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0078-subsets](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0494-target-sum) |
 ## Tree
 |  |
@@ -653,6 +655,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0200-number-of-islands](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
