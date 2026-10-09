@@ -211,6 +211,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
+| [2326-spiral-matrix-iv](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2574-left-and-right-sum-differences](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -391,6 +392,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0861-score-after-flipping-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [2326-spiral-matrix-iv](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -401,6 +403,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2326-spiral-matrix-iv](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
@@ -467,6 +470,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0706-design-hashmap](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
