@@ -852,6 +852,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Manacher
