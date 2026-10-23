@@ -73,6 +73,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0342-power-of-four](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -410,6 +411,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
@@ -443,6 +445,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0392-is-subsequence](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
