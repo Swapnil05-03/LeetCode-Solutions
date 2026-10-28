@@ -12,7 +12,6 @@ class Solution {
         }
         return count;
     }
-
     private void dfs(int i , boolean[] vis , int[][] adj){
         int n = adj.length;
         vis[i] = true;
