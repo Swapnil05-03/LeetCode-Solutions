@@ -82,6 +82,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0728-self-dividing-numbers](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0973-k-closest-points-to-origin](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1025-divisor-game) |
@@ -201,6 +202,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0746-min-cost-climbing-stairs](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0912-sort-an-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -410,6 +412,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0566-reshape-the-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0861-score-after-flipping-matrix) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2326-spiral-matrix-iv](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
@@ -765,6 +768,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0973-k-closest-points-to-origin](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
