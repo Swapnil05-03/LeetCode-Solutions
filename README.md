@@ -91,6 +91,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [1154-day-of-the-year](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1185-day-of-the-week) |
+| [1360-number-of-days-between-two-dates](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [1399-count-largest-group](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -475,6 +476,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [1154-day-of-the-year](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1360-number-of-days-between-two-dates](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
