@@ -232,6 +232,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [2778-sum-of-squares-of-special-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -370,6 +371,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0643-maximum-average-subarray-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -490,6 +492,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0724-find-pivot-index](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
