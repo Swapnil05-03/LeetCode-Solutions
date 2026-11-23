@@ -62,6 +62,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -427,6 +428,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0495-teemo-attacking) |
@@ -449,6 +451,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [0020-valid-parentheses](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
