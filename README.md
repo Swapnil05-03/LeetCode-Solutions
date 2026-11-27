@@ -106,6 +106,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [2769-find-the-maximum-achievable-number](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -446,6 +447,7 @@ Feel free to explore the solutions, suggest improvements, or discuss alternative
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2326-spiral-matrix-iv](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Swapnil05-03/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## String
 |  |
 | ------- |
